@@ -1,0 +1,4 @@
+google-adk
+langchain-community
+wikipedia
+google-cloud-aiplatform[adk,agent_engines]
